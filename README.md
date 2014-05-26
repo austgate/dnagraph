@@ -16,3 +16,8 @@ Issues
 ======
 
 Please see either the Github issues queue or post them there.  
+
+Dependencies
+============
+
+This function depends on D3
